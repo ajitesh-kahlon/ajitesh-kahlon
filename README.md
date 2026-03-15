@@ -8,9 +8,7 @@ I design embedded systems that work in places people can't easily reach — wild
 
 ### What I Build
 
-🔥 **LoRaWAN Wildfire Detection System** — Long-range RF sensor network for remote wildfire surveillance. Achieved 15 km communication range on 915 MHz with <1 ms I2C latency between mesh nodes. Built on STM32WL dual-core architecture.
-
-🧪 **VOC Detector** — Portable volatile organic compound monitor with Bluetooth LE connectivity. Custom 4-layer PCB designed in KiCad with RF antenna integration and 15% power reduction through interrupt-driven sleep modes.
+🔥 **LoRaWAN Wildfire Detection System** — Long-range RF sensor network for remote wildfire surveillance. Achieved 15 km communication range on 915 MHz with <1 ms latency between mesh nodes. Built on STM32WL dual-core architecture.
 
 ⚡ **Solar-Powered Motion Detector** — IoT device powered by photovoltaic energy harvesting (bq25570). Designed PCB from scratch, reduced board size by 35%, increased battery life by 200% through power management optimization.
 
@@ -40,19 +38,4 @@ Languages       │  C · C++ · Python · Java · Verilog
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajiteshkahlon-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ajiteshkahlon)
-[![Email](https://img.shields.io/badge/Email-ajiteshdpskahlon@gmail.com-EA4335?style=flat&logo=gmail)](mailto:ajiteshdpskahlon@gmail.com)## Hi there 👋
-
-<!--
-**ajitesh-kahlon/ajitesh-kahlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-ajiteshdpskahlon@gmail.com-EA4335?style=flat&logo=gmail)](mailto:ajiteshdpskahlon@gmail.com)
